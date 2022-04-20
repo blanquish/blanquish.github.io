@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![publish github pages](https://github.com/blanquish/blanquish/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/blanquish/blanquish/actions/workflows/gh-pages.yml)
+[![Build](https://github.com/blanquish/blanquish.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/blanquish/blanquish.github.io/actions/workflows/gh-pages.yml)
 
