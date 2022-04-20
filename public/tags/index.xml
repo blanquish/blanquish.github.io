@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Blanca Garcia Gil</title>
+        <link>http://test:1313/tags/</link>
+        <description>Tags - Tag - Blanca Garcia Gil</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>bgarciagil@gmail.com (Blanca Garcia Gil)</managingEditor>
+            <webMaster>bgarciagil@gmail.com (Blanca Garcia Gil)</webMaster><atom:link href="http://test:1313/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
