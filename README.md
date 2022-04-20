@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This repo contains my personal blog which is created based on https://gohugo.io/ and built using Github actions to (https://blanquish.github.io)
+This repo contains my personal blog which is created based on https://gohugo.io/ and built using Github actions to https://blanquish.github.io
 
 <!--
 **blanquish/blanquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![publish github pages](https://github.com/blanquish/blanquish/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/blanquish/blanquish/actions/workflows/gh-pages.yml)
+[![Build](https://github.com/blanquish/blanquish.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/blanquish/blanquish.github.io/actions/workflows/gh-pages.yml)
 
