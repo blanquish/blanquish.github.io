@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This repo contains my personal blog which is created based on https://gohugo.io/ and built using Github actions to https://blanquish.github.io
+This repo contains my personal blog which is created based on https://gohugo.io/ and built using Github actions to https://blancagarciagil.com
 
 <!--
 **blanquish/blanquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
