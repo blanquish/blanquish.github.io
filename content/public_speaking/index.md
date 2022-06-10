@@ -6,6 +6,7 @@ draft: false
 
 
 # 2022
+* May 2022 - [Docker](https://www.docker.com/), Invited by the Mental Health Awareness ERG "Q&A with Blanca Garcia Gil - career highlights and tips for managing the ups and downs of working in tech"
 * May 2022 - [QCon Plus](https://plus.qconferences.com/), "5 Behaviours to Become an Effective Staff-Plus Engineer"
 * April 2022 - [QCon London](https://qconlondon.com/) , StaffPlus track, "5 Behaviours to Become an Effective Staff-Plus Engineer"
 * March 2022, [DevoxxUK](https://www.devoxx.co.uk/) Track review team (tracks: Data & AI, Build & Deploy)
