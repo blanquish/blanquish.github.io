@@ -14,7 +14,7 @@ I did not start my programming journey with computers but my passion for Math le
 
 Working in tech has given me the opportunity to work in different countries, different industries and appreciate and nurture diverse teams. 
 
-Working with people from different backgrounds has broadened my horizons and helped me be more open and share my ideas instead of feeling like I had to blend in. **I am passionate about helping not only women but people from underrepresented groups grow their careers in tech.**
+Working with people from different backgrounds has broadened my horizons and helped me be more open and share ideas instead of feeling like I had to blend in. **I am passionate about helping not only women but people from underrepresented groups grow their careers in tech.**
 
 **I worked at the BBC for the last 7 years**, focused on building platform services in the cloud which involved high traffic APIs, reliable data ingestion pipelines, tackling performance issues in our data warehouse and data visualisation services. 
 
