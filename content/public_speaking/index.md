@@ -4,11 +4,19 @@ date: 2022-03-29T19:01:12+01:00
 draft: false
 ---
 
+# 2023
+* June 2023 - [LeadDev StaffPlus London](https://leaddev.com/staffplus-london), "Solving the puzzle of staff+ time management"
+* March 2023 - [QCon London](https://qconlondon.com/), program committee member, sponsored "Staff+ Engineering in Practice" and "Architectures in 2025" tracks
+* March 2023 - [LeadDev](https://leaddev.com/), ["How to navigate uncertainty as a senior individual contributor"](https://leaddev.com/staffplus/how-navigate-uncertainty-senior-individual-contributor) panel moderator
+* February 2023 - [LeadDev StaffPlus London](https://leaddev.com/staffplus-london), review committee
+
 
 # 2022
+* September 2022 - [LeadDev](https://leaddev.com/), ["Building happy and effective data teams"](https://leaddev.com/building-happy-and-effective-data-teams) panellist
+* August 2022 - [LeadDev](https://leaddev.com/), ["Common mistakes new staff engineers make… and how to avoid them"](https://leaddev.com/events/common-mistakes-new-staff-engineers-make-and-how-avoid-them) panel moderator
 * May 2022 - [Docker](https://www.docker.com/), Invited by the Mental Health Awareness ERG "Q&A with Blanca Garcia Gil - career highlights and tips for managing the ups and downs of working in tech"
-* May 2022 - [QCon Plus](https://plus.qconferences.com/), "5 Behaviours to Become an Effective Staff-Plus Engineer"
-* April 2022 - [QCon London](https://qconlondon.com/) , StaffPlus track, "5 Behaviours to Become an Effective Staff-Plus Engineer"
+* May 2022 - [QCon Plus](https://plus.qconferences.com/), ["5 Behaviours to Become an Effective Staff-Plus Engineer"](https://www.infoq.com/presentations/5-behaviours-staff-plus/)
+* April 2022 - [QCon London](https://qconlondon.com/), StaffPlus track, "5 Behaviours to Become an Effective Staff-Plus Engineer"
 * March 2022, [DevoxxUK](https://www.devoxx.co.uk/) Track review team (tracks: Data & AI, Build & Deploy)
 * February 2022, [LeadDev London](https://leaddev.com/leaddev-london) review committee
 * January 2022 - [LeadDev](https://leaddev.com/) panel moderator["Understanding the role of a Principal Engineer"](https://leaddev.com/ic-leadership/understanding-role-principal-engineer)
