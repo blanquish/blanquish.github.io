@@ -5,7 +5,7 @@ draft: false
 ---
 
 # 2023
-* June 2023 - [LeadDev StaffPlus London](https://leaddev.com/staffplus-london), "Solving the puzzle of StaffPlus time management"
+* June 2023 - [LeadDev StaffPlus London](https://leaddev.com/staffplus-london), "Solving the puzzle of StaffPlus time management" [resources](../posts/leaddev_staff_plus_time_management_puzzle/)
 * May 2023 - [LeadDev StaffPlus Webinars](https://leaddev.com/node/16226), [How to better understand business context as a StaffPlus engineer](https://leaddev.com/staffplus/how-better-understand-business-context-staffplus-engineer), webinar host and panel moderator
 * March 2023 - [QCon London](https://qconlondon.com/), program committee member, sponsored "Staff+ Engineering in Practice" and "Architectures in 2025" tracks
 * March 2023 - [LeadDev](https://leaddev.com/), ["How to navigate uncertainty as a senior individual contributor"](https://leaddev.com/staffplus/how-navigate-uncertainty-senior-individual-contributor) panel moderator
