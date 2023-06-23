@@ -18,7 +18,7 @@ Working with people from different backgrounds has broadened my horizons and hel
 
 **I worked at the BBC for the last 7 years**, focused on building platform services in the cloud which involved high traffic APIs, reliable data ingestion pipelines, tackling performance issues in our data warehouse and data visualisation services. Most recently I was involved in setting the analytics platform at an early stage startup.
 
-I am available for independent consulting. I can help you solve your problems, especially in the following areas:
+**I am available for independent consulting**. I can help you solve your problems, especially in the following areas:
 * Transform your data vision into an actionable plan
 * Coming up with a data architecture that fits your needs
 * Designing a data team aligned with your business, helping you gain understanding roles and responsibilities of the different jobs
