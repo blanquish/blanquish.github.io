@@ -25,7 +25,6 @@ Talk references:
     - [Sunsama blog](https://www.sunsama.com/blog)
 - Talks that inspired this talk
     - [Setting goals as a senior individual contributor](https://speakerdeck.com/saleandro/leaddev-berlin-2022-setting-goals-as-a-senior-individual-contributor-nov-2022) by Sabrina Leandro
-    - [How to better understand business context as a StaffPlus engineer](https://leaddev.com/staffplus/how-better-understand-business-context-staffplus-engineer)
     - [Time to focus on your goals](https://www.youtube.com/watch?v=4pa6G23ygp0&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=7) by Maria Gutierrez, LeadDev London 2017
     - [The constant life of a tech lead](https://www.youtube.com/watch?v=9jd_vpcLK50&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=2) by Patrick Kua, LeadDev London 2017
 - LeadDev StaffPlus Webinars
@@ -33,3 +32,5 @@ Talk references:
     - [Understanding the role as a staff engineer](https://leaddev.com/ic-leadership/understanding-role-staff-engineer)
     - [Understanding the role as a principal engineer](https://leaddev.com/ic-leadership/understanding-role-principal-engineer)
     - [Understanding the role as a distinguished engineer](https://leaddev.com/ic-leadership/understanding-role-distinguished-engineer)
+    - [How to better understand business context as a StaffPlus engineer](https://leaddev.com/staffplus/how-better-understand-business-context-staffplus-engineer)
+    
