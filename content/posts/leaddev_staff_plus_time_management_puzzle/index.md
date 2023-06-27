@@ -7,7 +7,7 @@ tags: ['post', 'conferences', 'talks', 'resources', 'staffplus']
 ---
 I'm giving this talk at LeadDev StaffPlus London in June 2023.
 
-Check out the [talk slides](https://speakerdeck.com/blanquish)
+Check out the [talk slides](https://speakerdeck.com/blanquish/solving-the-puzzle-of-staff-plus-time-management)
 
 Talk references:
 
