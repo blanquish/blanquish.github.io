@@ -16,13 +16,14 @@ Working in tech has given me the opportunity to work in different countries, dif
 
 Working with people from different backgrounds has broadened my horizons and helped me be more open and share ideas instead of feeling like I had to blend in. **I am passionate about helping not only women but people from underrepresented groups grow their careers in tech.**
 
-**I worked at the BBC for the last 7 years**, focused on building platform services in the cloud which involved high traffic APIs, reliable data ingestion pipelines, tackling performance issues in our data warehouse and data visualisation services. Most recently I was involved in setting the analytics platform at an early stage startup.
+**I worked at the BBC for the last 7 years**, focused on building platform services in the cloud which involved designing scalable microservices architectures, high traffic APIs, reliable data ingestion pipelines, tackling performance issues in our data warehouse and data visualisation services. Most recently I was involved in setting the analytics platform at an early stage startup.
 
-**I am available for independent consulting**. I can help you solve your problems, especially in the following areas:
-* Transform your data vision into an actionable plan
+**I am available for independent consulting**. I can help you in the following areas:
+* Transforming your data vision into an actionable plan to created your data strategy
 * Coming up with a data architecture that fits your needs
+* Addressing performance, scalability and reliability issues in your existing data architecture
 * Designing a data team aligned with your business, helping you gain understanding roles and responsibilities of the different jobs
-* Upskill your talent's data literacy skills
+* Upskilling your talent's data literacy skills
 * Workshop design, facilitation and training
 * Career path frameworks, especifically senior individual contributors (Staff+ / Principal, etc)
 * Public speaking, hosting panels or interviews (see [Public Speaking](../public_speaking))
