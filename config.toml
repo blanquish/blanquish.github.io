@@ -163,9 +163,9 @@ enableEmoji = true
   # Social config about the author
   [params.social]
     # GitHub = "blanquish"
-    Email = "hello@blancagarciagil.com"
+    Email = "bgarciagil@gmail.com"
     Linkedin = "bgarciagil"
-    Twitter = "blanquish"
+    X = "blanquish"
     
 # Author config
 [author]
